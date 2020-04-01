@@ -13,6 +13,7 @@ This is the linkedin-clone site which is made by using React.js
 * Webpack-dev-server -v "1.15.1"
 * Bootstrap -v "3.3.7"
 
+
 ### Installation instructions
 0. In *App.js* input your firebase API Keys
 1. Set up React.JS - [Link](https://www.codecademy.com/articles/react-setup-v) <br>
